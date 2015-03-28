@@ -32,7 +32,7 @@ by submitting a PR or opening an issue.
 ## Hackathons
 
 * [Chimehack](http://www.chimeforchange.org/chimehack/)
-*
+* [MVMT50](http://mvmt50.com/hack/)
 
 ## Groups
 
@@ -43,7 +43,6 @@ by submitting a PR or opening an issue.
 * [Girls Who Code](https://girlswhocode.com/)
 * [Black Girls Code](http://www.blackgirlscode.com/)
 * [Glassbreakers](https://www.glassbreakers.co/)
-* [Geek Girl Dinner]()
 
 ## Newsletters
 
@@ -56,6 +55,3 @@ by submitting a PR or opening an issue.
 ## Podcasts
 
 * [Nerdette](http://nerdettepodcast.com/)
-
-
-## Twitter Lists
