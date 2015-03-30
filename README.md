@@ -19,6 +19,7 @@ by submitting a PR or opening an issue.
 * [Ways Men in Tech are Unintentionally Sexist](http://t.co/NcckguCx4M)
 * [Things People Say When You’re A Blonde Engineer At MIT](https://medium.com/@alicezielinski/things-people-say-when-youre-a-blonde-engineer-at-mit-b85df3d7970e)
 * [This is How to Build a Gender Balanced Tech Company](http://fortune.com/2015/03/26/ozon-amazon-russia-gender-balanced/)
+* [Code of Silicon Valley Minority:'You Can't be Angry'](http://www.bloomberg.com/news/articles/2014-11-13/code-of-silicon-valley-minority-you-can-t-be-angry-)
 
 ## Conferences
 
@@ -51,6 +52,7 @@ by submitting a PR or opening an issue.
 ## Blogs
 
 * [Tech Women Crush Wednesday](http://caitiem.com/techwcw/)
+* [Women & Tech](http://womenandtech.com/archive/)
 
 ## Podcasts
 
