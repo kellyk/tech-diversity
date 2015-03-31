@@ -44,15 +44,23 @@ by submitting a PR or opening an issue.
 * [Girls Who Code](https://girlswhocode.com/)
 * [Black Girls Code](http://www.blackgirlscode.com/)
 * [Glassbreakers](https://www.glassbreakers.co/)
+* [Anita Borg Institute](http://anitaborg.org/)
 
 ## Newsletters
 
 * [Women Who Code](https://www.womenwhocode.com/)
 
+## Books
+
+* [Geek Girl Rising: Unleashing the Power of Women in Tech](http://geekgirlrising.com/)
+* [Women in Tech: The Book!](http://thetarah.com/women-in-tech/)
+
 ## Blogs
 
 * [Tech Women Crush Wednesday](http://caitiem.com/techwcw/)
 * [Women & Tech](http://womenandtech.com/archive/)
+* [Women of Silicon Valley](https://medium.com/@WomenOfSiliconValley)
+* [Feminist Frequency](http://femfreq.tumblr.com/)
 
 ## Podcasts
 
