@@ -21,6 +21,18 @@ by submitting a PR or opening an issue.
 * [This is How to Build a Gender Balanced Tech Company](http://fortune.com/2015/03/26/ozon-amazon-russia-gender-balanced/)
 * [Code of Silicon Valley Minority:'You Can't be Angry'](http://www.bloomberg.com/news/articles/2014-11-13/code-of-silicon-valley-minority-you-can-t-be-angry-)
 
+## Blogs
+
+* [Tech Women Crush Wednesday](http://caitiem.com/techwcw/)
+* [Women & Tech](http://womenandtech.com/archive/)
+* [Women of Silicon Valley](https://medium.com/@WomenOfSiliconValley)
+* [Feminist Frequency](http://femfreq.tumblr.com/)
+
+## Books
+
+* [Geek Girl Rising: Unleashing the Power of Women in Tech](http://geekgirlrising.com/)
+* [Women in Tech: The Book!](http://thetarah.com/women-in-tech/)
+
 ## Conferences
 
 * [AlterConf](http://www.alterconf.com/)
@@ -29,11 +41,6 @@ by submitting a PR or opening an issue.
 * [Grace Hopper]()
 * [Lesbians Who Tech Summit](http://lesbianswhotech.org/summit2015/)
 * [TEDWomen](https://www.ted.com/attend/conferences/special-events/tedwomen)
-
-## Hackathons
-
-* [Chimehack](http://www.chimeforchange.org/chimehack/)
-* [MVMT50](http://mvmt50.com/hack/)
 
 ## Groups
 
@@ -46,21 +53,14 @@ by submitting a PR or opening an issue.
 * [Glassbreakers](https://www.glassbreakers.co/)
 * [Anita Borg Institute](http://anitaborg.org/)
 
+## Hackathons
+
+* [Chimehack](http://www.chimeforchange.org/chimehack/)
+* [MVMT50](http://mvmt50.com/hack/)
+
 ## Newsletters
 
 * [Women Who Code](https://www.womenwhocode.com/)
-
-## Books
-
-* [Geek Girl Rising: Unleashing the Power of Women in Tech](http://geekgirlrising.com/)
-* [Women in Tech: The Book!](http://thetarah.com/women-in-tech/)
-
-## Blogs
-
-* [Tech Women Crush Wednesday](http://caitiem.com/techwcw/)
-* [Women & Tech](http://womenandtech.com/archive/)
-* [Women of Silicon Valley](https://medium.com/@WomenOfSiliconValley)
-* [Feminist Frequency](http://femfreq.tumblr.com/)
 
 ## Podcasts
 
