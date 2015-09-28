@@ -44,14 +44,15 @@ by submitting a PR or opening an issue.
 
 ## Groups
 
-* [Women Who Code](https://www.womenwhocode.com/)
-* [Girl Develop It](https://www.girldevelopit.com/)
-* [Write/Speak/Code](http://www.writespeakcode.com/)
-* [Lesbians Who Tech](http://lesbianswhotech.org/)
-* [Girls Who Code](https://girlswhocode.com/)
-* [Black Girls Code](http://www.blackgirlscode.com/)
-* [Glassbreakers](https://www.glassbreakers.co/)
 * [Anita Borg Institute](http://anitaborg.org/)
+* [Black Girls Code](http://www.blackgirlscode.com/)
+* [Code and Cupcakes](http://codeandcupcakes.net/) - A Beginning Coding Workshop for Mothers and Daughters in Chicago
+* [Girl Develop It](https://www.girldevelopit.com/)
+* [Girls Who Code](https://girlswhocode.com/)
+* [Glassbreakers](https://www.glassbreakers.co/)
+* [Lesbians Who Tech](http://lesbianswhotech.org/)
+* [Women Who Code](https://www.womenwhocode.com/)
+* [Write/Speak/Code](http://www.writespeakcode.com/)
 
 ## Hackathons
 
