@@ -21,6 +21,18 @@ by submitting a PR or opening an issue.
 * [This is How to Build a Gender Balanced Tech Company](http://fortune.com/2015/03/26/ozon-amazon-russia-gender-balanced/)
 * [Code of Silicon Valley Minority:'You Can't be Angry'](http://www.bloomberg.com/news/articles/2014-11-13/code-of-silicon-valley-minority-you-can-t-be-angry-)
 
+## Blogs
+
+* [Tech Women Crush Wednesday](http://caitiem.com/techwcw/)
+* [Women & Tech](http://womenandtech.com/archive/)
+* [Women of Silicon Valley](https://medium.com/@WomenOfSiliconValley)
+* [Feminist Frequency](http://femfreq.tumblr.com/)
+
+## Books
+
+* [Geek Girl Rising: Unleashing the Power of Women in Tech](http://geekgirlrising.com/)
+* [Women in Tech: The Book!](http://thetarah.com/women-in-tech/)
+
 ## Conferences
 
 * [AlterConf](http://www.alterconf.com/)
@@ -30,37 +42,30 @@ by submitting a PR or opening an issue.
 * [Lesbians Who Tech Summit](http://lesbianswhotech.org/summit2015/)
 * [TEDWomen](https://www.ted.com/attend/conferences/special-events/tedwomen)
 
+## Groups
+
+* [Anita Borg Institute](http://anitaborg.org/) - We envision a future where the people who imagine and build technology mirror the people and societies they build it for.
+* [Black Girls Code](http://www.blackgirlscode.com/) - To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+* [Code and Cupcakes](http://codeandcupcakes.net/) - A Beginning Coding Workshop for Mothers and Daughters in Chicago
+* [djangogirls](https://djangogirls.org/) - We want to inspire women to fall in love with programming. We organize free Python and Django workshops, create open sourced online tutorials and care about curating amazing first experiences with technology.
+* [Girl Develop It](https://www.girldevelopit.com/) - Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development. Through in-person classes and community support, Girl Develop It helps women of diverse backgrounds achieve their technology goals and build confidence in their careers and their every day lives.
+* [Girls Who Code](https://girlswhocode.com/) - We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.
+* [Glassbreakers](https://www.glassbreakers.co/) - empower women to break the glass ceiling, together
+* [Lesbians Who Tech](http://lesbianswhotech.org/) - The Community of Queer Women In & Around Tech (and the people who love them)
+* [LinuxChix](http://www.linuxchix.org/) - LinuxChix is a community for women who like Linux and Free Software, and for women and men who want to support women in computing. The membership ranges from novices to experienced users, and includes professional and amateur programmers, system administrators and technical writers.
+* [PyLadies](http://www.pyladies.com/) - We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings. PyLadies also aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
+* [Rails Girls](http://railsgirls.com/) - Our aim is to give tools and a community for women to understand technology and to build their ideas. We do this by providing a great experience on building things and by making technology more approachable.
+* [Women Who Code](https://www.womenwhocode.com/) - Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+* [Write/Speak/Code](http://www.writespeakcode.com/) - Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. We run conferences and events across the US.
+
 ## Hackathons
 
 * [Chimehack](http://www.chimeforchange.org/chimehack/)
 * [MVMT50](http://mvmt50.com/hack/)
 
-## Groups
-
-* [Women Who Code](https://www.womenwhocode.com/)
-* [Girl Develop It](https://www.girldevelopit.com/)
-* [Write/Speak/Code](http://www.writespeakcode.com/)
-* [Lesbians Who Tech](http://lesbianswhotech.org/)
-* [Girls Who Code](https://girlswhocode.com/)
-* [Black Girls Code](http://www.blackgirlscode.com/)
-* [Glassbreakers](https://www.glassbreakers.co/)
-* [Anita Borg Institute](http://anitaborg.org/)
-
 ## Newsletters
 
 * [Women Who Code](https://www.womenwhocode.com/)
-
-## Books
-
-* [Geek Girl Rising: Unleashing the Power of Women in Tech](http://geekgirlrising.com/)
-* [Women in Tech: The Book!](http://thetarah.com/women-in-tech/)
-
-## Blogs
-
-* [Tech Women Crush Wednesday](http://caitiem.com/techwcw/)
-* [Women & Tech](http://womenandtech.com/archive/)
-* [Women of Silicon Valley](https://medium.com/@WomenOfSiliconValley)
-* [Feminist Frequency](http://femfreq.tumblr.com/)
 
 ## Podcasts
 
