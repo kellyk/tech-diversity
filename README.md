@@ -31,6 +31,7 @@ by submitting a PR or opening an issue.
 ## Books
 
 * [Geek Girl Rising: Unleashing the Power of Women in Tech](http://geekgirlrising.com/)
+* [Lean Out: The Struggle for Gender Equality in Tech and Start-up Culture](http://www.orbooks.com/catalog/lean-out/)
 * [Women in Tech: The Book!](http://thetarah.com/women-in-tech/)
 
 ## Conferences
