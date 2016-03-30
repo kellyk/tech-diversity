@@ -23,10 +23,11 @@ by submitting a PR or opening an issue.
 
 ## Blogs
 
+* [Feminist Frequency](http://femfreq.tumblr.com/)
+* [Model View Culture](https://modelviewculture.com/)
 * [Tech Women Crush Wednesday](http://caitiem.com/techwcw/)
 * [Women & Tech](http://womenandtech.com/archive/)
 * [Women of Silicon Valley](https://medium.com/@WomenOfSiliconValley)
-* [Feminist Frequency](http://femfreq.tumblr.com/)
 
 ## Books
 
@@ -42,6 +43,11 @@ by submitting a PR or opening an issue.
 * [Grace Hopper]()
 * [Lesbians Who Tech Summit](http://lesbianswhotech.org/summit2015/)
 * [TEDWomen](https://www.ted.com/attend/conferences/special-events/tedwomen)
+
+## Data
+
+* [Women in Software Engineering](https://github.com/triketora/women-in-software-eng)
+* [Women in Tech Datasets](https://github.com/alison985/women-in-tech-datasets)
 
 ## Groups
 
@@ -61,6 +67,7 @@ by submitting a PR or opening an issue.
 
 ## Hackathons
 
+* [ChiLadiesHack](http://chiladieshack.github.io/)
 * [Chimehack](http://www.chimeforchange.org/chimehack/)
 * [MVMT50](http://mvmt50.com/hack/)
 
@@ -71,3 +78,8 @@ by submitting a PR or opening an issue.
 ## Podcasts
 
 * [Nerdette](http://nerdettepodcast.com/)
+
+## Tools for Inclusion
+
+* [Career Ladders](https://github.com/enova/career_ladders)
+* [80+ Team Outings That Aren't Centered Around Drinking](https://github.com/jmmastey/team_outings)
