@@ -48,6 +48,7 @@ by submitting a PR or opening an issue.
 
 * [Women in Software Engineering](https://github.com/triketora/women-in-software-eng)
 * [Women in Tech Datasets](https://github.com/alison985/women-in-tech-datasets)
+* [Women Githubbers](https://github.com/tapasweni-pathak/Women-GitHubers)
 
 ## Groups
 
