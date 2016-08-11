@@ -57,6 +57,7 @@ by submitting a PR or opening an issue.
 * [Code and Cupcakes](http://codeandcupcakes.net/) - A Beginning Coding Workshop for Mothers and Daughters in Chicago
 * [djangogirls](https://djangogirls.org/) - We want to inspire women to fall in love with programming. We organize free Python and Django workshops, create open sourced online tutorials and care about curating amazing first experiences with technology.
 * [Girl Develop It](https://www.girldevelopit.com/) - Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development. Through in-person classes and community support, Girl Develop It helps women of diverse backgrounds achieve their technology goals and build confidence in their careers and their every day lives.
+* [Girls In Tech](http://girlsintech.org/) - Girls in Tech (GIT) is a global non-profit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Adriana Gascoigne founded GIT in 2007 to create a support framework to help women advance their careers in STEM fields.
 * [Girls Who Code](https://girlswhocode.com/) - We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.
 * [Glassbreakers](https://www.glassbreakers.co/) - empower women to break the glass ceiling, together
 * [Lesbians Who Tech](http://lesbianswhotech.org/) - The Community of Queer Women In & Around Tech (and the people who love them)
