@@ -72,6 +72,10 @@ by submitting a PR or opening an issue.
 * [ChiLadiesHack](http://chiladieshack.github.io/)
 * [Chimehack](http://www.chimeforchange.org/chimehack/)
 * [MVMT50](http://mvmt50.com/hack/)
+* [Spectra](http://sospectra.com/)
+* [PearlHacks](http://pearlhacks.com/)
+* [Technica](http://gotechnica.org/)
+
 
 ## Newsletters
 
